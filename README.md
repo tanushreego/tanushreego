@@ -8,10 +8,10 @@
 
 ### I'm [Tanushree Gorai], Welcome to my Github !!
  
-- 📚 Learning everything about Frontend and Backend technologies 😉
+- 📚 Learning everything about Frontend and Backend technologies.
 - 👨‍ Good in C++ and python.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Open for internships and hackathons
+- ⚡ Open for internships and hackathons.
 - 🎸Musician and a Techno freak.
 
 
