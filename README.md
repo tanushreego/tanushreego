@@ -10,6 +10,7 @@
  
 - 📚 Learning everything about Frontend and Backend technologies.
 - 👨‍ Good in C++ and python.
+- 📈Machine learning and Data analytics enthusiast.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Open for internships and hackathons.
 - 🎸Musician and a Techno freak.
@@ -25,6 +26,8 @@
 <a href = "https://www.linkedin.com/in/tanushree-gorai-1b437a1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/goraitanushree_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/c/TanushreeGorai"><img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
+<a href = "https://www.hackerrank.com/tanushree_gorai1"><img src="https://www.pngegg.com/en/png-eiiuu"/></a>
+
 <br />
 
 ---
